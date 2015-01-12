@@ -7,3 +7,5 @@ Completed User Stories:
 - Augment tip calculator app with a settings view
 - Play around with UI
 
+![alt tag](https://github.com/arizqi/tipcalculator/blob/master/prework.gif)
+
